@@ -2,22 +2,19 @@
 
 🔭 I’m currently learning QA, GIT, SQL
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-![Static Badge](https://img.shields.io/badge/Postman?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37&color=FF6C37)
-
-https://img.shields.io/badge/Postman?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37&color=FF6C37
-
-
+### 🛠 Web Application Tools:
 
 <div>
-  <img src="https://github.com/heorhii-ap/heorhii-ap/assets/143074323/c2a5b969-d5d6-4cb4-91a7-4323a890a4fc" title="jira" alt="jira" width="40" height="40"/>
-<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  
+</div>
 
 
 
 
-### Testing Documentation
+
+
+### My Testing Documentation
 
 * Checklists
 * Test-Cases
