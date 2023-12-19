@@ -4,8 +4,6 @@
 
 🔭 I’m currently learning QA, SQL, GIT
 
----
-
 ### 📁 Documentation:
 
 <div>
@@ -15,7 +13,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
 
----
 
 ### 🧰 Tools:
 
@@ -30,8 +27,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>  
 </div>
 
----
-
 ### 💾 SQL:
 
 <div>
@@ -39,13 +34,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
 </div>
 
----
 
 ### 📄 My CV
 
 *coming soon* 
-
----
 
 ### 💼 My Testing Documentation
 
