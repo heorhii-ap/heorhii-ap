@@ -1,5 +1,7 @@
 ### Hi there, I'm a Junior QA Engineer 👋
 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
  I’m currently working on
 
 <!--
