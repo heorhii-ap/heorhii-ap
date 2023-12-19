@@ -2,14 +2,14 @@
 
 🔭 I’m currently learning QA, GIT, SQL
 
-Testing Documentation
+## Testing Documentation
 
-Checklists
-Test-cases
-Bug reports
-SQL Queries
-Postman collections
-Test Plans
+* Checklists
+* Test-Cases
+* Bug-Reports
+* SQL Queries
+* Postman Collections
+* Test Plans
 
 
 <!--
