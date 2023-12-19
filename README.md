@@ -1,6 +1,10 @@
-<h2 align="left">Hi there, I'm a Junior QA Engineer <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
+<h2 align="left">Hi there, I'm a Junior QA Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32"/></h2>
+
+---
 
 🔭 I’m currently learning QA, GIT, SQL
+
+---
 
 ### 📁 Documentation:
 
@@ -10,6 +14,8 @@
   <img src="https://github.com/heorhii-ap/heorhii-ap/assets/143074323/1fc1ba65-e5b2-43d8-a051-7db02e10c8d4" title="qaseio" alt="qaseio" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
+
+---
 
 ### 🧰 Tools:
 
@@ -33,19 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ### My Testing Documentation
 
