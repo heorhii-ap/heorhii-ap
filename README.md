@@ -16,8 +16,12 @@
   <img src="https://github.com/heorhii-ap/heorhii-ap/assets/143074323/1fc1ba65-e5b2-43d8-a051-7db02e10c8d4" title="qaseio" alt="qaseio" width="40" height="40"/>&nbsp
   <img src="https://github.com/heorhii-ap/heorhii-ap/assets/143074323/1394126a-e160-4ef6-9fe6-9d0c852220cf" title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://github.com/heorhii-ap/heorhii-ap/assets/143074323/e0f942cb-d995-4ba8-a87a-1728ac9e99d6" title="charles" alt="charles" width="40" height="40"/>&nbsp
+  <img src="https://github.com/heorhii-ap/heorhii-ap/assets/143074323/ce84b10f-6f3a-475b-8ee5-0e1c953df5d3" title="swagger" alt="swagger" width="40" height="40"/>&nbsp
+  <img src="https://github.com/heorhii-ap/heorhii-ap/assets/143074323/83da6827-9b07-4722-90b4-ab6f3f0944e3" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
 </div>
+
+
 
 
 
