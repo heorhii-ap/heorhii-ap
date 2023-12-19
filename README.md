@@ -2,6 +2,8 @@
 
 🔭 I’m currently learning QA, GIT, SQL
 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ### Testing Documentation
 
 * Checklists
