@@ -2,6 +2,15 @@
 
 🔭 I’m currently learning QA, GIT, SQL
 
+Testing Documentation
+
+Checklists
+Test-cases
+Bug reports
+SQL Queries
+Postman collections
+Test Plans
+
 
 <!--
 **heorhii-ap/heorhii-ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
