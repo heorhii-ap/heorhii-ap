@@ -4,6 +4,13 @@
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<div>
+  <img src="https://github.com/heorhii-ap/heorhii-ap/assets/143074323/c2a5b969-d5d6-4cb4-91a7-4323a890a4fc" title="jira" alt="jira" width="40" height="40"/>
+<div>
+
+![postman](https://github.com/heorhii-ap/heorhii-ap/assets/143074323/c2a5b969-d5d6-4cb4-91a7-4323a890a4fc)
+
+
 ### Testing Documentation
 
 * Checklists
