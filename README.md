@@ -1,4 +1,4 @@
-### Hi there, I'm a Junior QA Engineer <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22"/> 👋
+### Hi there, I'm a Junior QA Engineer <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/> 👋
 
 
 
