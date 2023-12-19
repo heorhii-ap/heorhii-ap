@@ -1,7 +1,7 @@
 # Hi there, I'm a Junior QA Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 * 🔭 I’m currently learning QA, SQL, GIT
-* ⚡ In my free time I study Arduino
+* ⚡ In my free time I study [Arduino](https://github.com/heorhii-ap/arduino_pet)
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-### 🧰 Tools:
+### 🛠️ Tools:
 
 <div>
   <img src="https://github.com/heorhii-ap/heorhii-ap/assets/143074323/83da6827-9b07-4722-90b4-ab6f3f0944e3" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
