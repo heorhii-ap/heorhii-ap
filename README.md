@@ -1,6 +1,21 @@
 <h2 align="left">Hi there, I'm a Junior QA Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32"/></h2>
 
----
+<h2>
+  Hi there, I'm a Junior QA Engineer
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h2>
+
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+# Hi there, I'm a Junior QA Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ 
+
+
+
 
 🔭 I’m currently learning QA, GIT, SQL
 
