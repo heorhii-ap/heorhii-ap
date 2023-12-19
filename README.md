@@ -1,8 +1,9 @@
 # Hi there, I'm a Junior QA Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
----
-
 🔭 I’m currently learning QA, SQL, GIT
+⚡ In my free time I study Arduino
+
+---
 
 ### 📁 Documentation:
 
@@ -13,6 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
 
+---
 
 ### 🧰 Tools:
 
@@ -27,6 +29,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>  
 </div>
 
+---
+
 ### 💾 SQL:
 
 <div>
@@ -34,10 +38,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
 </div>
 
+---
 
 ### 📄 My CV
 
 *coming soon* 
+
+---
 
 ### 💼 My Testing Documentation
 
@@ -47,19 +54,3 @@
 * SQL Queries
 * Postman Collections
 * Test Plans
-
-
-<!--
-**heorhii-ap/heorhii-ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
