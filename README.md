@@ -7,7 +7,7 @@
 
 ### 💼 My Testing Documentation
 
-* QA Portfolio (QA Yandex Practicum)
+* [QA Portfolio (QA Yandex Practicum)](https://github.com/heorhii-ap/qa_portfolio)
 * Checklists
 * Test-Cases
 * Bug-Reports
