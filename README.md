@@ -8,12 +8,12 @@
 ### 💼 My Portfolio
 
 * [QA Yandex Practicum](https://github.com/heorhii-ap/qa_portfolio)
-* Checklists
-* Test-Cases
-* Bug-Reports
-* SQL Queries
-* Postman Collections
-* Test Plans
+* Checklists (*сoming soon*)
+* Test-Cases (*сoming soon*)
+* Bug-Reports (*сoming soon*)
+* SQL Queries (*сoming soon*)
+* Postman Collections (*сoming soon*)
+* Test Plans (*сoming soon*)
 
 ---
 
