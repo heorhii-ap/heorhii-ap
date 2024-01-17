@@ -5,6 +5,18 @@
 
 ---
 
+### 💼 My Testing Documentation
+
+* QA Portfolio (QA Yandex Practicum)
+* Checklists
+* Test-Cases
+* Bug-Reports
+* SQL Queries
+* Postman Collections
+* Test Plans
+
+---
+
 ### 📁 Documentation:
 
 <div>
@@ -42,15 +54,4 @@
 
 ### 📄 My CV
 
-*coming soon* 
-
----
-
-### 💼 My Testing Documentation
-
-* Checklists
-* Test-Cases
-* Bug-Reports
-* SQL Queries
-* Postman Collections
-* Test Plans
+*coming soon*
