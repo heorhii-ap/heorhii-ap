@@ -48,5 +48,5 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
-  <img src="https://github.com/heorhii-ap/heorhii-ap/assets/143074323/1697935b-90e0-45fc-90a8-468394408e7c" title="dbeaver" alt="mysql" width="40" height="40"/>
+  <img src="https://github.com/heorhii-ap/heorhii-ap/assets/143074323/031e92f3-6ee5-4a45-8181-d2b783ded6d3" title="dbeaver" alt="mysql" width="40" height="40"/>
 </div>
