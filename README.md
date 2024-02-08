@@ -11,7 +11,7 @@
 * Checklists (*сoming soon*)
 * Test-Cases (*сoming soon*)
 * Bug-Reports (*сoming soon*)
-* [SQL Queries] (*in progress*) (https://github.com/heorhii-ap/SQL)
+* [SQL Queries](https://github.com/heorhii-ap/SQL) (*in progress*)
 * Postman Collections (*сoming soon*)
 * Test Plans (*сoming soon*)
 
