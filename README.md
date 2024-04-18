@@ -1,4 +1,4 @@
-# I'm a QA Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# I'm a QA Engineer / Quality Engineer / Tester <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 * 👨‍💻 I’m currently working on "Веб-сервис для оценки эффективности сотрудников"
 * 🔭 I’m currently learning QA, SQL, GIT
