@@ -13,7 +13,7 @@
 * Test-Cases (*сoming soon*)
 * Bug-Reports (*сoming soon*)
 * [SQL Queries](https://github.com/heorhii-ap/SQL) (*in progress*)
-* Postman Collections (*сoming soon*)
+* [Postman Collections](https://github.com/heorhii-ap/postman) (*in progress*)
 * Test Plans (*сoming soon*)
 
 ---
